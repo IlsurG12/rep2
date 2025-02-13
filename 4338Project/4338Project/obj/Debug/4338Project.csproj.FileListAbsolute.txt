@@ -101,3 +101,11 @@ C:\Users\Ксения\Source\Repos\4338Group\4338Project\4338Project\obj\Debug\4
 C:\Users\Ксения\Source\Repos\4338Group\4338Project\4338Project\obj\Debug\_4338Project.Properties.Resources.resources
 C:\Users\Ксения\Source\Repos\4338Group\4338Project\4338Project\obj\Debug\4338Project.csproj.GenerateResource.cache
 C:\Users\Ксения\Source\Repos\4338Group\4338Project\4338Project\obj\Debug\4338Project.csproj.CoreCompileInputs.cache
+C:\Users\Huawei\Desktop\4338Group\4338Project\4338Project\obj\Debug\Borisova_4338.g.cs
+C:\Users\Huawei\Desktop\4338Group\4338Project\4338Project\obj\Debug\Nasyybullin_4338.g.cs
+C:\Users\Huawei\Desktop\4338Group\4338Project\4338Project\obj\Debug\Salikhzyanov_4338.g.cs
+C:\Users\Huawei\Desktop\4338Group\4338Project\4338Project\obj\Debug\Borisova_4338.baml
+C:\Users\Huawei\Desktop\4338Group\4338Project\4338Project\obj\Debug\Nasyybullin_4338.baml
+C:\Users\Huawei\Desktop\4338Group\4338Project\4338Project\obj\Debug\Salikhzyanov_4338.baml
+C:\Users\Huawei\Desktop\4338Group\4338Project\4338Project\obj\Debug\BayazovaDi_4338.g.cs
+C:\Users\Huawei\Desktop\4338Group\4338Project\4338Project\obj\Debug\BayazovaDi_4338.baml
