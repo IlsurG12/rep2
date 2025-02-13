@@ -56,5 +56,12 @@ namespace _4338Project
             Borisova_4338 ksen = new Borisova_4338();
             ksen.Show();
         }
+
+
+        private void myButton_Click_Ranel(object sender, RoutedEventArgs e)
+        {
+            Shafigullin_4338 Shaf = new Shafigullin_4338();
+            Shaf.Show();
+        }
     }
 }
