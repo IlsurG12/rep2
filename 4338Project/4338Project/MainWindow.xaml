@@ -30,6 +30,7 @@
         <Button Name="AdelButton" Content="Юсупов Адель" Width="150" Height="30" Click="myButton_Click_Adel" Grid.Row="16"/>
         <Button Name="AidarInfoButton" Width="150" Height="30" Content="Салихзянов Айдар" Click="AidarInfoButton_Click" Grid.Row="13"/>
         <Button Name="AmirInfoButton" Width="150" Height="30" Content="Насыйбуллин Амир" Click="AmirInfoButton_Click" Grid.Row="10"/>
+        <Button Name="BorisButton" Width="150" Height="30" Content="Православнов Борис" Click="BorisButton_Click" Grid.Row="9"/>
         <Button Name="KsenButton" Content="Борисова Ксения" Width="150" Height="30" Click="Button_Click_Ksen" Grid.Row="1"/>
     </Grid>
 </Window>

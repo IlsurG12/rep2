@@ -56,5 +56,11 @@ namespace _4338Project
             Borisova_4338 ksen = new Borisova_4338();
             ksen.Show();
         }
+
+        private void BorisButton_Click(object sender, RoutedEventArgs e)
+        {
+            Pravoslavnov_4338 pravo = new Pravoslavnov_4338();
+            pravo.Show();
+        }
     }
 }
