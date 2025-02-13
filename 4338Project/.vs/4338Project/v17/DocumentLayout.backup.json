@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|c:\\users\\\u043A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338group\\4338project\\4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\borisova_4338.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|c:\\users\\\u043A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338group\\4338project\\4338project\\borisova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338project\\borisova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{5897CA8C-B43D-4C23-85C2-290A8CFCE65E}|4338Project\\4338Project.csproj|solutionrelative:4338project\\borisova_4338.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -101,8 +101,7 @@
               "ToolTip": "C:\\Users\\\u041A\u0441\u0435\u043D\u0438\u044F\\source\\repos\\4338Group\\4338Project\\4338Project\\Borisova_4338.xaml",
               "RelativeToolTip": "4338Project\\Borisova_4338.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-31T11:13:21.485Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T11:13:21.485Z"
             },
             {
               "$type": "Document",
