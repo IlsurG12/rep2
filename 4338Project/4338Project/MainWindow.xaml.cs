@@ -56,5 +56,10 @@ namespace _4338Project
             Borisova_4338 ksen = new Borisova_4338();
             ksen.Show();
         }
+        private void button_click(object sender, RoutedEventArgs e)
+        {
+            Khusayenova_4348  yeseniya = new Khusayenova_4348();
+            yeseniya.Show();
+        }
     }
 }
