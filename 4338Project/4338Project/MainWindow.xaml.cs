@@ -56,5 +56,11 @@ namespace _4338Project
             Borisova_4338 ksen = new Borisova_4338();
             ksen.Show();
         }
+
+		private void Button_Click_Ils(object sender, RoutedEventArgs e)
+		{
+            Gainutdinov_4338 ils = new Gainutdinov_4338();
+            ils.Show();
+        }
     }
 }
